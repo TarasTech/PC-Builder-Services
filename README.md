@@ -2,12 +2,14 @@
 Project was created for skill based assessment that was held at per-scholas. This was created mostly from scratch HTML and using Bootstrap.
 
 Website simulates a company which decided to make a wiki page to allow their customers easy research on building pc's.
+
 The website has a few jokes, but it was mostly satire.
+
 On the site you can learn about all the different things you need to know to build a pc, from basic information, to parts and part average prices.
+
 Website also reccomends a few shopping sites that the client can choose to buy parts from. (Note: Company has no affiliation with sites listed)
 
 Project requirements were as stated below:
-Technical requirements:
 
 HTML
 
